@@ -1,0 +1,10 @@
+apiVersion: source.toolkit.fluxcd.io/v1beta2
+kind: GitRepository
+metadata:
+  name: cluster-config
+  namespace: flux-system
+spec:
+  interval: 1m
+  url: ssh://git-codecommit.<region>.amazonaws.com/v1/repos/<repo-name>
+  ref:
+    branch: main
