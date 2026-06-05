@@ -1,4 +1,4 @@
-apiVersion: source.toolkit.fluxcd.io/v1beta2
+apiVersion: source.toolkit.fluxcd.io/v1
 kind: OCIRepository
 metadata:
   name: aws-lbc-oci
@@ -7,7 +7,7 @@ spec:
   interval: 10m
   url: oci://public.ecr.aws/eks-charts    # <-- AWS PUBLIC CONTAINER REGISTRY
 ---
-apiVersion: source.toolkit.fluxcd.io/v1beta2
+apiVersion: source.toolkit.fluxcd.io/v1
 kind: OCIRepository
 metadata:
   name: bitnami-oci
