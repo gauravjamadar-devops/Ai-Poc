@@ -10,11 +10,11 @@ spec:
       chart: aws-load-balancer-controller
       version: 1.6.0
       sourceRef:
-        kind: HelmRepository
-        name: eks-charts
+        kind: OCIRepository      # <-- SWITCH TO OCI REGISTRY PROTOCOL
+        name: aws-lbc-oci        # <-- TARGETS THE CONTAINER ENDPOINT BELOW
         namespace: flux-system
   install:
     createNamespace: false
   values:
-    clusterName: demo-eks   # <-- Ensure this matches your actual cluster name
-    region: us-east-1       # <-- Update to your AWS region
+    clusterName: demo-eks
+    region: us-east-1
