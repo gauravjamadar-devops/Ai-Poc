@@ -10,8 +10,8 @@ spec:
       chart: aws-load-balancer-controller
       version: 1.6.0
       sourceRef:
-        kind: OCIRepository      # <-- SWITCH TO OCI REGISTRY PROTOCOL
-        name: aws-lbc-oci        # <-- TARGETS THE CONTAINER ENDPOINT BELOW
+        kind: HelmRepository
+        name: aws-lbc
         namespace: flux-system
   install:
     createNamespace: false
