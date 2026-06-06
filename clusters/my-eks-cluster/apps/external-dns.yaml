@@ -8,10 +8,10 @@ spec:
   chart:
     spec:
       chart: external-dns
-      version: 1.12.0
+      version: 9.0.3
       sourceRef:
-        kind: OCIRepository      # <-- SWITCH TO OCI REGISTRY PROTOCOL
-        name: bitnami-oci        # <-- TARGETS THE CONTAINER ENDPOINT BELOW
+        kind: HelmRepository
+        name: bitnami
         namespace: flux-system
   install:
     createNamespace: false

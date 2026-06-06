@@ -1,17 +1,17 @@
 apiVersion: source.toolkit.fluxcd.io/v1
-kind: OCIRepository
+kind: HelmRepository
 metadata:
-  name: aws-lbc-oci
+  name: aws-lbc
   namespace: flux-system
 spec:
   interval: 10m
-  url: oci://public.ecr.aws/eks-charts    # <-- AWS PUBLIC CONTAINER REGISTRY
+  url: https://aws.github.io/eks-charts
 ---
 apiVersion: source.toolkit.fluxcd.io/v1
-kind: OCIRepository
+kind: HelmRepository
 metadata:
-  name: bitnami-oci
+  name: bitnami
   namespace: flux-system
 spec:
   interval: 10m
-  url: oci://registry-1.docker.io/bitnamicharts  # <-- BITNAMI DOCKER HUB REGISTRY
+  url: https://charts.bitnami.com/bitnami
