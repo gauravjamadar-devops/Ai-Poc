@@ -18,3 +18,7 @@ spec:
   values:
     clusterName: demo-eks
     region: us-east-1
+    serviceAccount:
+      create: true
+      annotations:
+        eks.amazonaws.com/role-arn: arn:aws:iam::459119164101:role/eks-alb-controller
