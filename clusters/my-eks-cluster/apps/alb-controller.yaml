@@ -18,6 +18,7 @@ spec:
   values:
     clusterName: demo-eks
     region: us-east-1
+    vpcId: vpc-047effc79cdc0ce3c
     serviceAccount:
       create: true
       annotations:
