@@ -1,0 +1,30 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "ec2:DescribeInstances",
+        "ec2:DescribeTags",
+        "ec2:DescribeLoadBalancers",
+        "ec2:DescribeLoadBalancerAttributes",
+        "ec2:DescribeListeners",
+        "ec2:DescribeListenerCertificates",
+        "ec2:DescribeSSLPolicies",
+        "ec2:DescribeRules",
+        "ec2:DescribeTargetGroups",
+        "ec2:DescribeTargetGroupAttributes",
+        "ec2:DescribeNetworkInterfaces",
+        "ec2:DescribeSecurityGroups",
+        "ec2:DescribeVpcs",
+        "elasticloadbalancing:DescribeLoadBalancers",
+        "elasticloadbalancing:DescribeTargetGroups",
+        "elasticloadbalancing:DescribeListeners",
+        "elasticloadbalancing:DescribeRules",
+        "elasticloadbalancing:DescribeTags",
+        "elasticloadbalancing:DescribeLoadBalancerAttributes"
+      ],
+      "Resource": "*"
+    }
+  ]
+}

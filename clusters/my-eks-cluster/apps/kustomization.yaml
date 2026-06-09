@@ -6,3 +6,4 @@ resources:
   - cert-manager.yaml
   - alb-controller.yaml
   - external-dns.yaml
+  - sample-app.yaml
