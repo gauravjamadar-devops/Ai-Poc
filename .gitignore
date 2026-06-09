@@ -1,3 +1,5 @@
 june26.pem
 .terragrunt-cache/
 .terraform/
+.terragrunt-cache/
+.terraform/
