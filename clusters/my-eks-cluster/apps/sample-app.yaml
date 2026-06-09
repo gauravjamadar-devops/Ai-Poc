@@ -1,0 +1,54 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sample-nginx
+  namespace: kube-system
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: sample-nginx
+  template:
+    metadata:
+      labels:
+        app: sample-nginx
+    spec:
+      containers:
+      - name: nginx
+        image: public.ecr.aws/nginx/nginx:1.25
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: sample-nginx-service
+  namespace: kube-system
+spec:
+  type: ClusterIP
+  selector:
+    app: sample-nginx
+  ports:
+  - port: 80
+    targetPort: 80
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: sample-nginx-ingress
+  namespace: kube-system
+  annotations:
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/target-type: ip
+spec:
+  ingressClassName: alb
+  rules:
+  - http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: sample-nginx-service
+            port:
+              number: 80
