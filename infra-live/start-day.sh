@@ -1,3 +1,5 @@
+
+#cat << 'EOF' > ~/infra-live/start-day.sh
 #!/bin/bash
 set -e
 cd ~/infra-live
@@ -14,4 +16,8 @@ flux bootstrap github \
   --branch=main \
   --path=clusters/my-eks-cluster \
   --personal
-echo "✨ All components online and operating clean!"
+
+echo "✨ All components online. Flux is syncing Crossplane objects now!"
+EOF
+#chmod +x ~/infra-live/start-day.sh
+
