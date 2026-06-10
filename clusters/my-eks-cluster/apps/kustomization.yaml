@@ -7,3 +7,4 @@ resources:
   - alb-controller.yaml
   - external-dns.yaml
   - sample-app.yaml
+  - crossplane-s3-bucket.yaml
