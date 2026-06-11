@@ -1,0 +1,23 @@
+apiVersion: pkg.crossplane.io/v1alpha1
+kind: ControllerConfig
+metadata:
+  name: aws-s3-config
+spec:
+  serviceAccountName: aws-provider-sa
+---
+apiVersion: pkg.crossplane.io/v1
+kind: Provider
+metadata:
+  name: provider-aws-s3
+spec:
+  package: xpkg.upbound.io/upbound/provider-aws-s3:v1.3.0
+  runtimeConfigRef:
+    name: aws-s3-config
+---
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: aws-provider-sa
+  namespace: crossplane-system
+  annotations:
+    ://amazonaws.com: arn:aws:iam::459119164101:role/CrossplaneAWSControllerRole

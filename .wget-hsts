@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+releases.hashicorp.com	0	1	1780485252	31536000
+helm.sh	0	0	1781076861	31536000
+github.com	0	1	1780485356	31536000

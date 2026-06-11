@@ -1,0 +1,5662 @@
+apiVersion: v1
+entries:
+  crossplane:
+  - apiVersion: v1
+    appVersion: 2.3.2
+    created: "2026-06-09T16:47:09.756149653Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 25204020c240bb6280bfa5ba091c3550eacdc1d681b44136113a0d1b4f98e1c6
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.3.2.tgz
+    version: 2.3.2
+  - apiVersion: v1
+    appVersion: 2.3.1
+    created: "2026-06-09T16:47:09.75552362Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 6c1ecc2bca352819ec0bcd4fdfea492a41eeed9f7ade190bc8e9835aa901f65b
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.3.1.tgz
+    version: 2.3.1
+  - apiVersion: v1
+    appVersion: 2.3.0
+    created: "2026-06-09T16:47:09.754804797Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 2ceff920de33e849704935219669ab976722c06f77c4ec3b6692b24f2ae6cd7f
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.3.0.tgz
+    version: 2.3.0
+  - apiVersion: v1
+    appVersion: 2.3.0-rc.1
+    created: "2026-06-09T16:47:09.75404351Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 77b1a92a08c8f1380253323dbf30df783a8d6ef716a34934d50e7f265406fd5d
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.3.0-rc.1.tgz
+    version: 2.3.0-rc.1
+  - apiVersion: v1
+    appVersion: 2.2.2
+    created: "2026-06-09T16:47:09.753021365Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 32c002c40763045bc03651b002b63c77059dc37e999e333c729c1a35aaa14c54
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.2.2.tgz
+    version: 2.2.2
+  - apiVersion: v1
+    appVersion: 2.2.1
+    created: "2026-06-09T16:47:09.752253438Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 56408bb31122f8285766bd889d03d1ca0881685c0aff0fad12263ca007da3585
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.2.1.tgz
+    version: 2.2.1
+  - apiVersion: v1
+    appVersion: 2.2.0
+    created: "2026-06-09T16:47:09.751634015Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: eb82193920dd63dc15f2101f8285faef300943fbc40a6b01082a70ec12cfbcf2
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v1
+    appVersion: 2.2.0-rc.1
+    created: "2026-06-09T16:47:09.75100706Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 4a8ac961b32e5bdff38a969cd5c51d5e68a73a6cfc91b883d0c52fb576d64b82
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.2.0-rc.1.tgz
+    version: 2.2.0-rc.1
+  - apiVersion: v1
+    appVersion: 2.1.6
+    created: "2026-06-09T16:47:09.750324382Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 2b5242e1e8d91612f2e77a0c34d3de29abd757b02d6292c5b5b10dadca531a9e
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.1.6.tgz
+    version: 2.1.6
+  - apiVersion: v1
+    appVersion: 2.1.5
+    created: "2026-06-09T16:47:09.749713902Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 64c21bb16f3cdd361da0efd73dc1fe32dc32516b3e212e1f37b294dacccc224e
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.1.5.tgz
+    version: 2.1.5
+  - apiVersion: v1
+    appVersion: 2.1.4
+    created: "2026-06-09T16:47:09.749041719Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 617bedd04e883a7088446fd4b8e6a4219e420850da16dc7bad4e310d19cbbe36
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.1.4.tgz
+    version: 2.1.4
+  - apiVersion: v1
+    appVersion: 2.1.3
+    created: "2026-06-09T16:47:09.748410068Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 1059cc4b87167ba7e1b837a8e6bd787691bc9f84c5a29a7e91dbd0122086c682
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.1.3.tgz
+    version: 2.1.3
+  - apiVersion: v1
+    appVersion: 2.1.2
+    created: "2026-06-09T16:47:09.747776503Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: f7bab672decb228d994bf2a227c1c369877de5474fbf9c830ffce5cd8fdf00da
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.1.2.tgz
+    version: 2.1.2
+  - apiVersion: v1
+    appVersion: 2.1.1
+    created: "2026-06-09T16:47:09.747014976Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 609b5e9018a8d3fc02d809a4c5c0e473f73a040b390f88666b9fc9bf47fa0fff
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.1.1.tgz
+    version: 2.1.1
+  - apiVersion: v1
+    appVersion: 2.1.0
+    created: "2026-06-09T16:47:09.745718227Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: b820f38abffed861c561b5982efa885a22b33a3fe78ec295b5357a5fb6ec0314
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v1
+    appVersion: 2.1.0-rc.1
+    created: "2026-06-09T16:47:09.745059936Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 083089a559a7cbd605ddd0508cd12cb575d0fdc62edbe3df51d091dce9eee096
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.1.0-rc.1.tgz
+    version: 2.1.0-rc.1
+  - apiVersion: v1
+    appVersion: 2.0.8
+    created: "2026-06-09T16:47:09.744441984Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: cc5a7d852d05e51501111b680ff999faead974e237ba5fd37eed7c457e065790
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.0.8.tgz
+    version: 2.0.8
+  - apiVersion: v1
+    appVersion: 2.0.7
+    created: "2026-06-09T16:47:09.743839317Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 5a9cb61b35099c72004ff5d4a705b7bd9fb300cd5f2b3952dc854749e8dfc1a3
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.0.7.tgz
+    version: 2.0.7
+  - apiVersion: v1
+    appVersion: 2.0.6
+    created: "2026-06-09T16:47:09.743195096Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 94d27f7b735cdffd317a63320a929ecf97a947a686624c8c9c3829fad36f1a98
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.0.6.tgz
+    version: 2.0.6
+  - apiVersion: v1
+    appVersion: 2.0.5
+    created: "2026-06-09T16:47:09.742599779Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: fc38699eebb9aa3efc968bd00b6014b1cd6da89cdce9e85a0710aadefaf8b911
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.0.5.tgz
+    version: 2.0.5
+  - apiVersion: v1
+    appVersion: 2.0.4
+    created: "2026-06-09T16:47:09.741981418Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 716fa4d6fc3783b4977e3fca642448c5fcdaf2f2fc2f9a536db645e10ccc1718
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.0.4.tgz
+    version: 2.0.4
+  - apiVersion: v1
+    appVersion: 2.0.2
+    created: "2026-06-09T16:47:09.741334022Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: e6093f76f389032e4efbe424ae74b4a1565a6a70e0366174d74eea2b2ae2dc9b
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v1
+    appVersion: 2.0.1
+    created: "2026-06-09T16:47:09.740697563Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 2e2f2dad102e057aab7dea520151f9fb28de83d67d4a0fe02fcc8590025066de
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v1
+    appVersion: 2.0.0
+    created: "2026-06-09T16:47:09.739471707Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: d8981dd0bfba9813891786a775b036284444eb641fef6296495c5044c4baa804
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: 2.0.0-rc.1
+    created: "2026-06-09T16:47:09.738805393Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: f3d8372a4b7140f012e4129168322449bc2d4aba975183a993d50fcbcd6fa64f
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: crossplane-info@lists.cncf.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-2.0.0-rc.1.tgz
+    version: 2.0.0-rc.1
+  - apiVersion: v1
+    appVersion: 1.20.9
+    created: "2026-06-09T16:47:09.725014631Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: c8fd78cc396c1b0de1337e8c7563c82087aed74c20dea97e105b2b68b5557a24
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.9.tgz
+    version: 1.20.9
+  - apiVersion: v1
+    appVersion: 1.20.8
+    created: "2026-06-09T16:47:09.724360315Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: d5ffca7fa72ad4d76d94e2a544be27831ef0abde17628fd7f6edb01b8e165661
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.8.tgz
+    version: 1.20.8
+  - apiVersion: v1
+    appVersion: 1.20.7
+    created: "2026-06-09T16:47:09.723730186Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: da1626bc87cf579e1678a17a1e3843e355857caa4561ddfb859c1b4bbbc9ad4e
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.7.tgz
+    version: 1.20.7
+  - apiVersion: v1
+    appVersion: 1.20.6
+    created: "2026-06-09T16:47:09.722554329Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: da2b5a9da36b00b8c18ba8e7d114451a5b6c28fb474ca1bacd27aad6db7b5bf7
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.6.tgz
+    version: 1.20.6
+  - apiVersion: v1
+    appVersion: 1.20.5
+    created: "2026-06-09T16:47:09.721951782Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 6bcabf8b6a24f109a778ea0cbda20ffa32b46ff7229de905e41b947aeb863411
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.5.tgz
+    version: 1.20.5
+  - apiVersion: v1
+    appVersion: 1.20.4
+    created: "2026-06-09T16:47:09.721350606Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: a382250113033aedd89781a9fdacb3ffb22ac3a60d7bd213f3d5df2619376157
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.4.tgz
+    version: 1.20.4
+  - apiVersion: v1
+    appVersion: 1.20.3
+    created: "2026-06-09T16:47:09.720764333Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: e772336d964b7fe48d761d5469a08b13b30c3da45be16257f776b6ebb75da316
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.3.tgz
+    version: 1.20.3
+  - apiVersion: v1
+    appVersion: 1.20.1
+    created: "2026-06-09T16:47:09.720143608Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: e61b2909abb5c01f489b16145084c8804215bf385a05bb027d0acd3db1895509
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.1.tgz
+    version: 1.20.1
+  - apiVersion: v1
+    appVersion: 1.20.0
+    created: "2026-06-09T16:47:09.719526328Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 29a4992c197d066b359764602766f68dea4062b353bd1537e200102299158011
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.0.tgz
+    version: 1.20.0
+  - apiVersion: v1
+    appVersion: 1.20.0-rc.1
+    created: "2026-06-09T16:47:09.718911672Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 15630b14c512b74f464b0c13dc66a8f47c4a7971898d52fd6f3489ab5003c8e3
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.20.0-rc.1.tgz
+    version: 1.20.0-rc.1
+  - apiVersion: v1
+    appVersion: 1.19.3
+    created: "2026-06-09T16:47:09.712834776Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 8f0dac73965ed6a23fd8dc82612d6cd737f1f1a30643eb8b1a202d2a899cae6b
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.19.3.tgz
+    version: 1.19.3
+  - apiVersion: v1
+    appVersion: 1.19.2
+    created: "2026-06-09T16:47:09.712172188Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: ec0ac9c0f0a716cd4f1d5a1fa18156efbbde18c0cd9f083603bb1e7e8f4e2928
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.19.2.tgz
+    version: 1.19.2
+  - apiVersion: v1
+    appVersion: 1.19.1
+    created: "2026-06-09T16:47:09.711019071Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 46438d5242dd68cb11b63582909489a1489195deca74900072366d8c3079f2fb
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.19.1.tgz
+    version: 1.19.1
+  - apiVersion: v1
+    appVersion: 1.19.0
+    created: "2026-06-09T16:47:09.710416133Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: a959112a68088f1402a385184747aa37aa00d727913f48363ffec785659eb9d7
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.19.0.tgz
+    version: 1.19.0
+  - apiVersion: v1
+    appVersion: 1.19.0-rc.1
+    created: "2026-06-09T16:47:09.70983003Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 87aa4b6849d3a9220156a52764f32e7a135b162c404d69c75917a77f86af22dd
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.19.0-rc.1.tgz
+    version: 1.19.0-rc.1
+  - apiVersion: v1
+    appVersion: 1.18.5
+    created: "2026-06-09T16:47:09.709205529Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 91853b805a35308a912b82b40270f0fa7592ca571e870af9f79260e6e6f68709
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.18.5.tgz
+    version: 1.18.5
+  - apiVersion: v1
+    appVersion: 1.18.4
+    created: "2026-06-09T16:47:09.708619035Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: c795d244de03ba1b3e7b7fc670454b7ffe546647f8a37243e08e495004adc067
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.18.4.tgz
+    version: 1.18.4
+  - apiVersion: v1
+    appVersion: 1.18.3
+    created: "2026-06-09T16:47:09.708020203Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: bc125547cedaedffa16d161ab11962a57bce2d0a1bcb51f06fb62bb6b29ed4ca
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.18.3.tgz
+    version: 1.18.3
+  - apiVersion: v1
+    appVersion: 1.18.2
+    created: "2026-06-09T16:47:09.707436844Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: d581c0cbf8eef8c4ccc54268b67ee0aa2cd45856ea68abf9934dbcefd68996b6
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.18.2.tgz
+    version: 1.18.2
+  - apiVersion: v1
+    appVersion: 1.18.1
+    created: "2026-06-09T16:47:09.706873505Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 7ce6fb25024e88846103dbfd910a3f1183109ea9c2f039ed4f6ec8272663c102
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.18.1.tgz
+    version: 1.18.1
+  - apiVersion: v1
+    appVersion: 1.18.0
+    created: "2026-06-09T16:47:09.706267793Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: cbe2efdf04e06fc5f5306567dd5e655b4ad771f0bf58a85fe0c91fc4f4016de2
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.18.0.tgz
+    version: 1.18.0
+  - apiVersion: v1
+    appVersion: 1.18.0-rc.1
+    created: "2026-06-09T16:47:09.705189263Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 51b7214e9643f8254820ae4c4298ca6b156180043a06df961c4beefe53bbf960
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.18.0-rc.1.tgz
+    version: 1.18.0-rc.1
+  - apiVersion: v1
+    appVersion: 1.17.6
+    created: "2026-06-09T16:47:09.704623231Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 1d6526d19e07a89c6220ee27386b2b3142202cd1f9c249bb868958e84f78d73e
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.17.6.tgz
+    version: 1.17.6
+  - apiVersion: v1
+    appVersion: 1.17.5
+    created: "2026-06-09T16:47:09.70404512Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 4295685ea19642a3330fcbf959de68d4f4710ff724b8dd7745886ae4a3f4a71f
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.17.5.tgz
+    version: 1.17.5
+  - apiVersion: v1
+    appVersion: 1.17.4
+    created: "2026-06-09T16:47:09.703469603Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 957a89c3f46b48b288bb4b6a97e9df76073c64e54b5dbaa1def9a7db37b17f13
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.17.4.tgz
+    version: 1.17.4
+  - apiVersion: v1
+    appVersion: 1.17.3
+    created: "2026-06-09T16:47:09.70286358Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: ff71ae459b911b8b0f3fb3e6322bf0923cc67c2574ab320d0c4291b111fe860f
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.17.3.tgz
+    version: 1.17.3
+  - apiVersion: v1
+    appVersion: 1.17.2
+    created: "2026-06-09T16:47:09.702263445Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: d13865ac5ef618a2a77766c2c5d8530298571d325caf3991333adcdc79e16540
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.17.2.tgz
+    version: 1.17.2
+  - apiVersion: v1
+    appVersion: 1.17.1
+    created: "2026-06-09T16:47:09.701705956Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 0f70011d8c08a56c528f88f7526460aa690928f131040698aaf8d1c80b286724
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.17.1.tgz
+    version: 1.17.1
+  - apiVersion: v1
+    appVersion: 1.17.0
+    created: "2026-06-09T16:47:09.701122517Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: c61ea07300700e04085b886d2335ceaee41b2082219a2ee85d2ac9f840225fa3
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.17.0.tgz
+    version: 1.17.0
+  - apiVersion: v1
+    appVersion: 1.17.0-rc.1
+    created: "2026-06-09T16:47:09.700542513Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 2eff95692e39b55f849a89c0f3e4307cebf3de3fb0df481459d2180fcc70f5db
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.17.0-rc.1.tgz
+    version: 1.17.0-rc.1
+  - apiVersion: v1
+    appVersion: 1.16.5
+    created: "2026-06-09T16:47:09.699924642Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: d27f315d1ea4925dc4d95c49e372ebf630d0652e174ce99cb84c8dfa5841f5ee
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.16.5.tgz
+    version: 1.16.5
+  - apiVersion: v1
+    appVersion: 1.16.4
+    created: "2026-06-09T16:47:09.698785615Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 73edd5171391554b26f095352ae05cf8847449e0412bd203b7ccd6ab7d6b8d15
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.16.4.tgz
+    version: 1.16.4
+  - apiVersion: v1
+    appVersion: 1.16.3
+    created: "2026-06-09T16:47:09.698230659Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 4529920137c6bac3d6851f0c1dad3b6fbe54d06ea9cc0ce416bf9fd3515fa60f
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.16.3.tgz
+    version: 1.16.3
+  - apiVersion: v1
+    appVersion: 1.16.2
+    created: "2026-06-09T16:47:09.69768035Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 0018eb6c201f5d9592afdc0a92a3d6887df1c24b4946b29daf2b0f06f13b7d5c
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.16.2.tgz
+    version: 1.16.2
+  - apiVersion: v1
+    appVersion: 1.16.1
+    created: "2026-06-09T16:47:09.697123822Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 41a0b494ce1e889f8b09f9a4cf2011fd84fc3188ff6637be05de9505d1ab49fe
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.16.1.tgz
+    version: 1.16.1
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2026-06-09T16:47:09.696576738Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 1affdad0f297770326412154500505a7c15a64edb27a4884cfffd41632a68aad
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.16.0.tgz
+    version: 1.16.0
+  - apiVersion: v1
+    appVersion: 1.16.0-rc.1
+    created: "2026-06-09T16:47:09.696005307Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 0c70d0bd281bcac163bca045605e9fe156b2a3675b8ea38298ce5f0b2b7589ae
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.16.0-rc.1.tgz
+    version: 1.16.0-rc.1
+  - apiVersion: v1
+    appVersion: 1.15.6
+    created: "2026-06-09T16:47:09.695407136Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 194a9a3c0279fe1054e5ac21ceae0bf8266baefd4e387e2cad0fdd08c2e7ad22
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.15.6.tgz
+    version: 1.15.6
+  - apiVersion: v1
+    appVersion: 1.15.5
+    created: "2026-06-09T16:47:09.694857427Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: d3e725ce762175947582a1c44ba41c4be72fe3dad9e305a5b01bb63af5eeab85
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.15.5.tgz
+    version: 1.15.5
+  - apiVersion: v1
+    appVersion: 1.15.4
+    created: "2026-06-09T16:47:09.694267829Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: ea1e1a0a0ffad7b3749fe049429db0537311d1ab9e2eba92eda7e7eef5ae03f3
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.15.4.tgz
+    version: 1.15.4
+  - apiVersion: v1
+    appVersion: 1.15.3
+    created: "2026-06-09T16:47:09.693348078Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: da09b79d246e2a503834e7b3116c477d59bca421201e19d2b51859a1123112a0
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.15.3.tgz
+    version: 1.15.3
+  - apiVersion: v1
+    appVersion: 1.15.2
+    created: "2026-06-09T16:47:09.692622966Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 67e2c45c8f5725d8547826b114f39d15f987467aa4eac2ac4bce1d31a0770a18
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.15.2.tgz
+    version: 1.15.2
+  - apiVersion: v1
+    appVersion: 1.15.1
+    created: "2026-06-09T16:47:09.692077464Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: be2ea58d19829961e7c979341a8c23450fbc80ef5edcfbb8d6e931c2d40b5a65
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.15.1.tgz
+    version: 1.15.1
+  - apiVersion: v1
+    appVersion: 1.15.0
+    created: "2026-06-09T16:47:09.691532523Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 6595441d81e9679659263e880b5401d848a4fe39190805c163824e066d63962c
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.15.0.tgz
+    version: 1.15.0
+  - apiVersion: v1
+    appVersion: 1.15.0-rc.1
+    created: "2026-06-09T16:47:09.690987592Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: ea30b4e5f42cd950c0f60f8290254e2258972c1e4477b932520a73048807603c
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.15.0-rc.1.tgz
+    version: 1.15.0-rc.1
+  - apiVersion: v1
+    appVersion: 1.14.9
+    created: "2026-06-09T16:47:09.69042158Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 87141462bf2cd0318569b3a1685f9f76181600368755d6a8b1e3e5b1e474eb1c
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.9.tgz
+    version: 1.14.9
+  - apiVersion: v1
+    appVersion: 1.14.8
+    created: "2026-06-09T16:47:09.689867174Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: ee104872cf0c48e66a8262af7ff82a59aad423b5982538b0a3e3ab70656b26c2
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.8.tgz
+    version: 1.14.8
+  - apiVersion: v1
+    appVersion: 1.14.7
+    created: "2026-06-09T16:47:09.689274652Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 7cefdd43daff62c363d10da1ff6af1cd275d27e7427c5d8364bb42ac09336078
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.7.tgz
+    version: 1.14.7
+  - apiVersion: v1
+    appVersion: 1.14.6
+    created: "2026-06-09T16:47:09.688654958Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 3d827e861555e2ce3d9ab3fd69385f0a2719bfcaa66dbf2e8919bbe4d924b33d
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.6.tgz
+    version: 1.14.6
+  - apiVersion: v1
+    appVersion: 1.14.5
+    created: "2026-06-09T16:47:09.68753471Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 689a8fb21272627035f1869ad89bd9a121f520d747a631a56e5ac9afd4614fb1
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.5.tgz
+    version: 1.14.5
+  - apiVersion: v1
+    appVersion: 1.14.4
+    created: "2026-06-09T16:47:09.686922298Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: b26e6eb1a9eb4899e20303b6c2ed6505ffc83e98f38bde038815343c3456abc9
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.4.tgz
+    version: 1.14.4
+  - apiVersion: v1
+    appVersion: 1.14.3
+    created: "2026-06-09T16:47:09.686334893Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: fe92b95e658f259d2369c2975a37f784a0fb992e1bcb67ee41371a4e1b1640e7
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.3.tgz
+    version: 1.14.3
+  - apiVersion: v1
+    appVersion: 1.14.2
+    created: "2026-06-09T16:47:09.685794889Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 688831f74b88650a4e6048737649fa58041a7734d09a4616450d7795b28b2290
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.2.tgz
+    version: 1.14.2
+  - apiVersion: v1
+    appVersion: 1.14.1
+    created: "2026-06-09T16:47:09.685230839Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: bb69041370b47ab85d70c1931b9d38e37a44bb4bcd238aa7a152ca6321f27509
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.1.tgz
+    version: 1.14.1
+  - apiVersion: v1
+    appVersion: 1.14.0
+    created: "2026-06-09T16:47:09.684666149Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: c91dde49ef59bc26c63376b5e86f125dafc09072d9ca909d339b35f2f02ddba5
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.0.tgz
+    version: 1.14.0
+  - apiVersion: v1
+    appVersion: 1.14.0-rc.1
+    created: "2026-06-09T16:47:09.684077802Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 48f18885241526e548614ed455f3f11f5a089a397beee4351113c4ed21ca3717
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.14.0-rc.1.tgz
+    version: 1.14.0-rc.1
+  - apiVersion: v1
+    appVersion: 1.13.2
+    created: "2026-06-09T16:47:09.683493442Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: adfe8e2eb88255bd72da7be13eb07d4fb4c71547abb726f0352425c66a225eab
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.13.2.tgz
+    version: 1.13.2
+  - apiVersion: v1
+    appVersion: 1.13.1
+    created: "2026-06-09T16:47:09.682539329Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 15194be9914cd2d53b95a4a0b89647ecf112cab81db05f6c5d2dcacd5b646ed1
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.13.1.tgz
+    version: 1.13.1
+  - apiVersion: v1
+    appVersion: 1.13.0
+    created: "2026-06-09T16:47:09.681578011Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 9c752246862ed005dbe6e0dc405086d8c115ceb4e40977bbe3ae0f0dabfc6f32
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.13.0.tgz
+    version: 1.13.0
+  - apiVersion: v1
+    appVersion: 1.12.3
+    created: "2026-06-09T16:47:09.680919649Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 877803880b093c3e40e43fce283ea54e1497284b8fd717c5ab1d5bcd565261fd
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.12.3.tgz
+    version: 1.12.3
+  - apiVersion: v1
+    appVersion: 1.12.2
+    created: "2026-06-09T16:47:09.680285684Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: fba4bd8741c8163a892b9046ce371fb46092a8ae185bed84502a1ebffb433d52
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.12.2.tgz
+    version: 1.12.2
+  - apiVersion: v1
+    appVersion: 1.12.1
+    created: "2026-06-09T16:47:09.679678449Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 64795de59161b25536deb2da7dae6f2bc633d294b465438d4a9ebbf97e13609f
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.12.1.tgz
+    version: 1.12.1
+  - apiVersion: v1
+    appVersion: 1.12.0
+    created: "2026-06-09T16:47:09.679029902Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: be5ce4efc4215afb569886ef689025f071c150dcc12066c3946139da154a284c
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.12.0.tgz
+    version: 1.12.0
+  - apiVersion: v1
+    appVersion: 1.11.5
+    created: "2026-06-09T16:47:09.678341425Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 0bdf47bce1adc9a70f1bac46205572d025dc86cf62b98bae6001beaa345a2fd9
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.11.5.tgz
+    version: 1.11.5
+  - apiVersion: v1
+    appVersion: 1.11.4
+    created: "2026-06-09T16:47:09.677774581Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 281a71c8830c93574148896be176af38b34888f0ff9639f62e7c344de82ba6be
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.11.4.tgz
+    version: 1.11.4
+  - apiVersion: v1
+    appVersion: 1.11.3
+    created: "2026-06-09T16:47:09.676959854Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 9b4b0e9d33acb2a3d3617e042405212e988f8b766525d693f817336d172a9e90
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.11.3.tgz
+    version: 1.11.3
+  - apiVersion: v1
+    appVersion: 1.11.2
+    created: "2026-06-09T16:47:09.676116994Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 7952bb6c02747fa29dced7f35887c14c4ea95a7c3eddcae1b7b521cee50615c4
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.11.2.tgz
+    version: 1.11.2
+  - apiVersion: v1
+    appVersion: 1.11.1
+    created: "2026-06-09T16:47:09.675560495Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 912285f18001777ad15d45c17c634a1fd30d89f5ab9f90963c58320484bba0f4
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.11.1.tgz
+    version: 1.11.1
+  - apiVersion: v1
+    appVersion: 1.11.0
+    created: "2026-06-09T16:47:09.6749924Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 159cfa9773a2573bf1a0b848c9331d61cdc5284e96d5ab0fd779ff81ee01d43e
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.11.0.tgz
+    version: 1.11.0
+  - apiVersion: v1
+    appVersion: 1.10.4
+    created: "2026-06-09T16:47:09.674429181Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 906e8ae7213fa003713c17cabc7768705515ec2149018c83e74fd08717ef8ac5
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.10.4.tgz
+    version: 1.10.4
+  - apiVersion: v1
+    appVersion: 1.10.3
+    created: "2026-06-09T16:47:09.673965002Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: b98400b27d52471984dc1350a1b8c669d45ea20b9a2dc5c9177cd4a860644c21
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.10.3.tgz
+    version: 1.10.3
+  - apiVersion: v1
+    appVersion: 1.10.2
+    created: "2026-06-09T16:47:09.673470176Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 8626087a1a10495f34afdc5fe82d215195cbf8a2fac3a13f352b8e00662b56c3
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.10.2.tgz
+    version: 1.10.2
+  - apiVersion: v1
+    appVersion: 1.10.1
+    created: "2026-06-09T16:47:09.672979717Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 0b93a206fd298f9c6c015eaf0cbf66f4235be5e9084abe4aa3d66f57f2c0e40d
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.10.1.tgz
+    version: 1.10.1
+  - apiVersion: v1
+    appVersion: 1.10.0
+    created: "2026-06-09T16:47:09.672501747Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 3ab47f63ed6307fb6aa411ea78d95350132fc70eda4b23f2cbb79fea49a6e953
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.10.0.tgz
+    version: 1.10.0
+  - apiVersion: v1
+    appVersion: 1.9.2
+    created: "2026-06-09T16:47:09.73810676Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 9fbd87322b50d772a80b3f49f4419e0bb2344636f9d8dde34ff11e6dce749747
+    home: https://crossplane.io
+    icon: https://docs.crossplane.io/android-chrome-192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.9.2.tgz
+    version: 1.9.2
+  - apiVersion: v1
+    appVersion: 1.9.1
+    created: "2026-06-09T16:47:09.737707459Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 05c65b58d6eb66990053125fadf4ebbb4dac1b87b8ab282684f366d9f8fcf2dd
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.9.1.tgz
+    version: 1.9.1
+  - apiVersion: v1
+    appVersion: 1.9.0
+    created: "2026-06-09T16:47:09.737302639Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 427c275af8b6b11929ac196bfee05ef32230964d300afc990934b9f6b4613e4c
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.9.0.tgz
+    version: 1.9.0
+  - apiVersion: v1
+    appVersion: 1.8.2
+    created: "2026-06-09T16:47:09.736899341Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: cc37c593c17ebf8fe89a5a614747b230ad3f9fa8abd6af4d72b9854c0e086aad
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.8.2.tgz
+    version: 1.8.2
+  - apiVersion: v1
+    appVersion: 1.8.1
+    created: "2026-06-09T16:47:09.736499048Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 7119aac7347723013e950b201ed714273f7d1368a6566d078ab55a6a0c714f62
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.8.1.tgz
+    version: 1.8.1
+  - apiVersion: v1
+    appVersion: 1.8.0
+    created: "2026-06-09T16:47:09.736081589Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 5ed49b08bbdc0988d4019c450153cb030aa7c5eb05688066cc8c0c485f9e1752
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.8.0.tgz
+    version: 1.8.0
+  - apiVersion: v1
+    appVersion: 1.7.3
+    created: "2026-06-09T16:47:09.735661857Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 4fb9ad4da028257ae0a6031982f6ca48d6e04faa7fd5aaa6c7d8da3ddcc7c3a5
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.7.3.tgz
+    version: 1.7.3
+  - apiVersion: v1
+    appVersion: 1.7.2
+    created: "2026-06-09T16:47:09.735234032Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 5de806e6e1e963e7e7817e9cdddb978f89f3f98cc6aa5a1b906ebefc152bb3c4
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.7.2.tgz
+    version: 1.7.2
+  - apiVersion: v1
+    appVersion: 1.7.1
+    created: "2026-06-09T16:47:09.734815522Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 8073114eff2d38bc3a2736042b5c1a03321840819d4114cd8952c2017e55e1f6
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.7.1.tgz
+    version: 1.7.1
+  - apiVersion: v1
+    appVersion: 1.7.0
+    created: "2026-06-09T16:47:09.734039392Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 46ca6e185cb196f1cff8acb41b6c38a37b50704c4a56705317facac5ebeef4b4
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.7.0.tgz
+    version: 1.7.0
+  - apiVersion: v1
+    appVersion: 1.6.7
+    created: "2026-06-09T16:47:09.733465989Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: f52fd846ab62fd99b2688111c00f2628c9ea726e3c0cb3d37e196f4d5506bd7b
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.6.7.tgz
+    version: 1.6.7
+  - apiVersion: v1
+    appVersion: 1.6.6
+    created: "2026-06-09T16:47:09.733082471Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 22c9a222f8fb2ae5fb2fa1b480ee26211f402886fb2666fad127ddcec1dbdd6c
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.6.6.tgz
+    version: 1.6.6
+  - apiVersion: v1
+    appVersion: 1.6.5
+    created: "2026-06-09T16:47:09.732710601Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 2911fcd521d9efc38166486600c23063bdc6c25cd1d58a2dbf5dac834f3ddc1e
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.6.5.tgz
+    version: 1.6.5
+  - apiVersion: v1
+    appVersion: 1.6.4
+    created: "2026-06-09T16:47:09.732310868Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: c9c9ffeb3c1d062f23701614edc09f0f6f522ab393584ebc084a2695593aa5c1
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.6.4.tgz
+    version: 1.6.4
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2026-06-09T16:47:09.731940871Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 9704ba516cbc1ef113f6775a1f3df32c7f21ec260052e82b99daa159a65f77c3
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.6.3.tgz
+    version: 1.6.3
+  - apiVersion: v1
+    appVersion: 1.6.2
+    created: "2026-06-09T16:47:09.731572656Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 3ecf186dfd0cb2054f0d2d151c6871840253ee869b58c1c5e1f335ee9f380f25
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.6.2.tgz
+    version: 1.6.2
+  - apiVersion: v1
+    appVersion: 1.6.1
+    created: "2026-06-09T16:47:09.731190731Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 3af9cc24f1807f918841512e7aecab21b141ae5f91216acd8997b84687751271
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.6.1.tgz
+    version: 1.6.1
+  - apiVersion: v1
+    appVersion: 1.6.0
+    created: "2026-06-09T16:47:09.730817659Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: a5c804c6f8703dc82aa773c7066c16b2cc7c8392d99d9f3613d23cc942b7b622
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.6.0.tgz
+    version: 1.6.0
+  - apiVersion: v1
+    appVersion: 1.5.3
+    created: "2026-06-09T16:47:09.730431347Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: f265b8376b11828d9b4403bc409877119d501ddae24eb94d3152a628df04f27a
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.5.3.tgz
+    version: 1.5.3
+  - apiVersion: v1
+    appVersion: 1.5.2
+    created: "2026-06-09T16:47:09.730067979Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 76e96630e2706c961cd1aa43165f3e591123b99c135e3513dd14df3a96e19d31
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.5.2.tgz
+    version: 1.5.2
+  - apiVersion: v1
+    appVersion: 1.5.1
+    created: "2026-06-09T16:47:09.729700726Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 1426e75fead3af8d0fdac690ad911ff1858a5393660364cb92d5a2dd68e614c4
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.5.1.tgz
+    version: 1.5.1
+  - apiVersion: v1
+    appVersion: 1.5.0
+    created: "2026-06-09T16:47:09.729250998Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: b501cff8096e57fd50403aa98475788db2167c9564012b7611c6580cd3bee830
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.5.0.tgz
+    version: 1.5.0
+  - apiVersion: v1
+    appVersion: 1.4.4
+    created: "2026-06-09T16:47:09.728297457Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: d4671cfe7f932452206f8570d78e9ac0c82621790de80e74658faf699fcdc1ab
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.4.4.tgz
+    version: 1.4.4
+  - apiVersion: v1
+    appVersion: 1.4.3
+    created: "2026-06-09T16:47:09.727945787Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 0459447f325765b1e0fe4318aa9ea28955b5967ae54e3976227d3bd55bc43962
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.4.3.tgz
+    version: 1.4.3
+  - apiVersion: v1
+    appVersion: 1.4.2
+    created: "2026-06-09T16:47:09.72757574Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 5226bb44011ef90c65f183d1d7ba9fcadb3e0af514ec57b65455f7aa3873acf8
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.4.2.tgz
+    version: 1.4.2
+  - apiVersion: v1
+    appVersion: 1.4.1
+    created: "2026-06-09T16:47:09.727208837Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 9f1a817e911d7c633e887e6f094caa6c9c7a05d9df9a9e118df63e1ab1d8177a
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.4.1.tgz
+    version: 1.4.1
+  - apiVersion: v1
+    appVersion: 1.4.0
+    created: "2026-06-09T16:47:09.726843877Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 137948e2ce1db393835a0360d6e706e21cd06fe842486786bf82ae1c9e4641db
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v1
+    appVersion: 1.3.3
+    created: "2026-06-09T16:47:09.726449122Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 08dcb96328ea13daced7981e3ec9969e6ec02ca10306f3d8ea443955397d7a63
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.3.3.tgz
+    version: 1.3.3
+  - apiVersion: v1
+    appVersion: 1.3.2
+    created: "2026-06-09T16:47:09.726097883Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 768717c979980d4faece027515b2b5f059b78de48db9a063ea92e84d9ad08c09
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.3.2.tgz
+    version: 1.3.2
+  - apiVersion: v1
+    appVersion: 1.3.1
+    created: "2026-06-09T16:47:09.725748356Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 1aaeed9f06d9060dd62938080c4dacff15df8f29e958ea290ae478e969e9b0b8
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.3.1.tgz
+    version: 1.3.1
+  - apiVersion: v1
+    appVersion: 1.3.0
+    created: "2026-06-09T16:47:09.725375955Z"
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: e52509325fccb3a7eb67fa46a67d7fc4e6ec88110087b1380e8d7d39948934fa
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.3.0.tgz
+    version: 1.3.0
+  - apiVersion: v1
+    appVersion: 1.2.5
+    created: "2026-06-09T16:47:09.7182801Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: e5bfa964c200466aedb8403784a2ac3a4467b2c85cec093a5903e0f4daa2ba90
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.2.5.tgz
+    version: 1.2.5
+  - apiVersion: v1
+    appVersion: 1.2.4
+    created: "2026-06-09T16:47:09.717299713Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 636c6cd6304d40acbc31e240b175b933c01a343047f08472253d5466d8b2202d
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.2.4.tgz
+    version: 1.2.4
+  - apiVersion: v1
+    appVersion: 1.2.3
+    created: "2026-06-09T16:47:09.716129119Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 8a4662b9187180f16fb7817562ab5fa87acb7ffeb91ac498db26c2e8f451adbf
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.2.3.tgz
+    version: 1.2.3
+  - apiVersion: v1
+    appVersion: 1.2.2
+    created: "2026-06-09T16:47:09.715305559Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 3ecbc5a659e44068ad762968940d31e9eacc5412531511c9092307e6cccff489
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.2.2.tgz
+    version: 1.2.2
+  - apiVersion: v1
+    appVersion: 1.2.1
+    created: "2026-06-09T16:47:09.714518503Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 3b95609aa0c4185e4e7900ba2cfdd7d9b84c612a315d6722831379e25d6e8193
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.2.1.tgz
+    version: 1.2.1
+  - apiVersion: v1
+    appVersion: 1.2.0
+    created: "2026-06-09T16:47:09.713708953Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 1a8f382b03302b1e8d120246c8fa481e836a9a99452dcdbeeecc366467c5c897
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v1
+    appVersion: 1.1.4
+    created: "2026-06-09T16:47:09.671953061Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: 51ea76f73215fbcdfa8d08f9b8b1ea8a9acf479fc442602cb3dd71fba854f611
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.1.4.tgz
+    version: 1.1.4
+  - apiVersion: v1
+    appVersion: 1.1.3
+    created: "2026-06-09T16:47:09.670215648Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: bc110cbc6a03d48a10db183102119d1562591e93ada5755764497ee6037ab344
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.1.3.tgz
+    version: 1.1.3
+  - apiVersion: v1
+    appVersion: 1.1.2
+    created: "2026-06-09T16:47:09.668992375Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: d94a4cb85dde1196b39f4f3a1b3be98efe1a77f6c6438c1eed44b654075c9b9b
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v1
+    appVersion: 1.1.1
+    created: "2026-06-09T16:47:09.667719748Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that enables platform
+      teams to assemble infrastructure from multiple vendors, and expose higher level
+      self-service APIs for application teams to consume.
+    digest: c896f59439b0729e4dde9e6b3f298de9d6d25472e7e987c937730265b4f9bfc9
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v1
+    appVersion: 1.1.0
+    created: "2026-06-09T16:47:09.665841984Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that extends any cluster
+      with the ability to provision and manage cloud infrastructure, services, and
+      applications using kubectl, GitOps, or any tool that works with the Kubernetes
+      API.
+    digest: bb19d358b66285759b7691f55d6418a40ea6ffcaeeb0008290cc7ec469944493
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: "2026-06-09T16:47:09.664612772Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that extends any cluster
+      with the ability to provision and manage cloud infrastructure, services, and
+      applications using kubectl, GitOps, or any tool that works with the Kubernetes
+      API.
+    digest: c124f3f7511e023ad2c277453478fcd9451acba2257d09a14ed61478321fdd80
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2026-06-09T16:47:09.663340556Z"
+    dependencies:
+    - condition: alpha.oam.enabled
+      name: oam-kubernetes-runtime
+      repository: https://charts.crossplane.io/alpha
+      version: 0.2.2
+    description: Crossplane is an open source Kubernetes add-on that extends any cluster
+      with the ability to provision and manage cloud infrastructure, services, and
+      applications using kubectl, GitOps, or any tool that works with the Kubernetes
+      API.
+    digest: 4e648e29a7f074f2693b29e0e3379eeac0d6a00cfb640461813239250cfc56e5
+    home: https://crossplane.io
+    icon: https://crossplane.io/images/favicon_192x192.png
+    keywords:
+    - cloud
+    - infrastructure
+    - services
+    - application
+    - database
+    - cache
+    - bucket
+    - infra
+    - app
+    - ops
+    - oam
+    - gcp
+    - azure
+    - aws
+    - alibaba
+    - cloudsql
+    - rds
+    - s3
+    - azuredatabase
+    - asparadb
+    - gke
+    - aks
+    - eks
+    maintainers:
+    - email: info@crossplane.io
+      name: Crossplane Maintainers
+    name: crossplane
+    urls:
+    - https://charts.crossplane.io/stable/crossplane-1.0.0.tgz
+    version: 1.0.0
+generated: "2026-06-09T16:47:09.661368404Z"

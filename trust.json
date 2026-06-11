@@ -1,0 +1,17 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "Federated": "arn:aws:iam::459119164101:oidc-provider/oidc.eks.us-east-1.amazonaws.com/id/88DD26E9FC7CAA25CD4941298AC5ED11"
+      },
+      "Action": "sts:AssumeRoleWithWebIdentity",
+      "Condition": {
+        "StringLike": {
+          "oidc.eks.us-east-1.amazonaws.com/id/88DD26E9FC7CAA25CD4941298AC5ED11:sub": "system:serviceaccount:crossplane-system:*"
+        }
+      }
+    }
+  ]
+}

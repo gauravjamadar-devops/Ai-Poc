@@ -1,0 +1,26 @@
+apiVersion: pkg.crossplane.io/v1beta1
+kind: DeploymentRuntimeConfig
+metadata:
+  name: aws-s3-runtime-config
+spec:
+  serviceAccountTemplate:
+    metadata:
+      name: aws-provider-sa
+---
+apiVersion: pkg.crossplane.io/v1
+kind: Provider
+metadata:
+  name: provider-aws-s3
+spec:
+  package: xpkg.upbound.io/upbound/provider-aws-s3:v1.3.0
+  runtimeConfigRef:
+    name: aws-s3-runtime-config
+---
+apiVersion: pkg.crossplane.io/v1
+kind: Provider
+metadata:
+  name: upbound-provider-family-aws
+spec:
+  package: xpkg.upbound.io/upbound/provider-family-aws:v1.3.0
+  runtimeConfigRef:
+    name: aws-s3-runtime-config
